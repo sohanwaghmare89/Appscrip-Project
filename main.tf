@@ -1,3 +1,4 @@
+# appscrip assisment for infra.....
 locals {
   cluster_name = var.cluster_name
 }
